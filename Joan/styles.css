@@ -1,0 +1,16 @@
+h1{
+  color: purple;
+}
+h2{
+  color: blue;
+}
+p{
+  color: rgb(90,230,180);
+}
+body{
+  background-color:rgb(255,153,204);
+  color: rgb(0,77,128);
+}
+h1{
+  font-size: 100pt;
+}
